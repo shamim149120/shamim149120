@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamim149120" alt="shamim149120" /></a> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/raikusy?logo=twitter&style=for-the-badge" alt="raikusy" /></a> </p>
+
 
 - 🔭 I’m currently working on Dart and Flutter 
 
