@@ -30,7 +30,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim149120&show_icons=true&locale=en&layout=compact" alt="shamim149120" /></p>
+
 
 
 
